@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.email = %q{}
   s.extensions = ["ext/mediainfo_ruby/extconf.rb"]
   s.extra_rdoc_files = ["README.rdoc", "ext/mediainfo_ruby/extconf.rb", "ext/mediainfo_ruby/mediainfo_ruby.cpp", "lib/mediainfo-ruby.rb"]
-  s.files = ["Manifest", "README.rdoc", "Rakefile", "ext/mediainfo_ruby/extconf.rb", "ext/mediainfo_ruby/mediainfo_ruby.cpp", "lib/mediainfo-ruby.rb", "spec/fixtures/README", "spec/mediainfo_spec.rb", "mediainfo-ruby.gemspec"]
+  s.files = ["README.rdoc", "Rakefile", "ext/mediainfo_ruby/extconf.rb", "ext/mediainfo_ruby/mediainfo_ruby.cpp", "lib/mediainfo-ruby.rb", "spec/fixtures/README", "spec/mediainfo_spec.rb", "mediainfo-ruby.gemspec"]
   s.homepage = %q{http://github.com/hackerdude/mediainfo-ruby}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Mediainfo-ruby", "--main", "README.rdoc"]
   s.require_paths = ["lib", "ext"]
