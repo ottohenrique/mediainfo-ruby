@@ -6,7 +6,6 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.2") if s.respond_to? :required_rubygems_version=
   s.authors = ["David Martinez"]
-  s.cert_chain = ["/Users/david/.ssh/gem-public_cert.pem"]
   s.date = %q{2010-07-22}
   s.description = %q{MediaInfo Ruby Bridge. Call MediaInfo lib directly}
   s.email = %q{}
@@ -18,7 +17,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib", "ext"]
   s.rubyforge_project = %q{mediainfo-ruby}
   s.rubygems_version = %q{1.3.7}
-  s.signing_key = %q{/Users/david/.ssh/gem-private_key.pem}
   s.summary = %q{MediaInfo Ruby Bridge. Call MediaInfo lib directly}
 
   if s.respond_to? :specification_version then
